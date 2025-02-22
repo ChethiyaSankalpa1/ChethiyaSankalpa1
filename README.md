@@ -1,8 +1,5 @@
 # Hi there 👋 I'm Chethiya Sankalpa
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chethiyasankalpa&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chethiyasankalpa&layout=compact&theme=dark)
-
 ## 🚀 About Me
 - 🔭 Currently working on AI-powered applications
 - 🌱 Learning Cloud Architecture & DevOps
@@ -27,13 +24,6 @@
 #### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-## 🌟 Featured Projects
-| Project              | Description                                 | Tech Stack                              |
-|----------------------|---------------------------------------------|-----------------------------------------|
-| [AI Chatbot](#)       | Intelligent conversational agent            | Python, TensorFlow, Flask               |
-| [E-commerce Platform](#) | Full-stack shopping solution              | React, Node.js, MongoDB                 |
-| [News Reporter App](#) | App for news reporting and management      | Java, Kotlin, Firebase, MySQL           |
 
 ## 🤝 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/chethiyasankalpa)
