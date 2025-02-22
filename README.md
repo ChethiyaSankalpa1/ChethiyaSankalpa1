@@ -1,31 +1,9 @@
-# Hi there 👋
+# Hi there 👋 I'm Chethiya Sankalpa
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chethiyasankalpa&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chethiyasankalpa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/chethiyasankalpa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chethiyasankalpa&layout=compact&theme=radical&hide_border=true&exclude_repo=repo1,repo2)](https://github.com/chethiyasankalpa)
 
-## About Me
-- 🚀 I'm Chethiya Sankalpa
-- 💻 Software Developer passionate about creating innovative solutions
-- 🎓 Currently focusing on Software Engineering
-- 🌱 Always learning and exploring new technologies
+## 🚀 About Me
 
-## Tech Stack
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chethiyasankalpa&layout=compact&theme=dark)
-
-### Languages & Tools
-- 💡 Frontend: HTML, CSS, JavaScript
-- 🛠️ Backend: Python, Node.js
-- 🗄️ Databases: MySQL, MongoDB
-- 🔧 Tools: Git, VS Code, Docker
-
-## Connect & Collaborate
-- 📫 Email: [your-email@example.com]
-- 🌐 Portfolio: [your-portfolio-url]
-- 💼 LinkedIn: [your-linkedin-url]
-- 🐦 Twitter: [your-twitter-handle]
-
-## Projects
-- 🔥 Check out my repositories below
-- 👨‍💻 Always open to collaborating on interesting projects
-
----
-⭐ From [chethiyasankalpa](https://github.com/chethiyasankalpa)
+```diff
++ Software Developer | Problem Solver | Tech Enthusiast
