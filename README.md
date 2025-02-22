@@ -20,15 +20,20 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 
+#### Mobile Development
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+
 #### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ## 🌟 Featured Projects
-| Project        | Description                   | Tech Stack                     |
-|----------------|-------------------------------|--------------------------------|
-| [AI Chatbot](#) | Intelligent conversational agent | Python, TensorFlow, Flask      |
-| [E-commerce Platform](#) | Full-stack shopping solution | React, Node.js, MongoDB        |
+| Project              | Description                                 | Tech Stack                              |
+|----------------------|---------------------------------------------|-----------------------------------------|
+| [AI Chatbot](#)       | Intelligent conversational agent            | Python, TensorFlow, Flask               |
+| [E-commerce Platform](#) | Full-stack shopping solution              | React, Node.js, MongoDB                 |
+| [News Reporter App](#) | App for news reporting and management      | Java, Kotlin, Firebase, MySQL           |
 
 ## 🤝 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/chethiyasankalpa)
