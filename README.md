@@ -1,10 +1,13 @@
 # Hi there 👋 I'm Chethiya Sankalpa
 
 ## 🚀 About Me
-- 🔭 Currently working on AI-powered applications
-- 🌱 Learning Cloud Architecture & DevOps
-- 👯 Looking to collaborate on innovative projects
-- ⚡ Fun fact: I automate everything I can!
+I am an undergraduate Software Engineer at NIBM,
+currently pursuing my degree in Software Engineering. I
+have experience in developing POS systems, web
+applications, and mobile applications, with a keen eye for
+detail and functionality. I am seeking opportunities to
+apply my skills and contribute to innovative projects in the
+tech industry
 
 ## 🛠️ Tech Stack
 #### Frontend
