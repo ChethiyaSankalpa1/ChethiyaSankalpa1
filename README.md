@@ -29,10 +29,10 @@ tech industry
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ## 🤝 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/chethiyasankalpa)
+- [LinkedIn](https://www.linkedin.com/in/chethiya-sankalapa-ba3a87316/)
 - [Portfolio](https://chethiyasankalpa1.github.io/Portfolio-Website/)
-- [Email](mailto:your@email.com)
-- [Twitter](https://twitter.com/chethiyasankalpa)
+- [Email](mailto:chethiyasankalpa456@email.com)
+  
 
 ## ⭐ Visitor Counter
 ![Visitor Count](https://profile-counter.glitch.me/chethiyasankalpa/count.svg)
