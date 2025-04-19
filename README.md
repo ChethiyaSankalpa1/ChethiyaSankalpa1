@@ -30,7 +30,7 @@ tech industry
 
 ## 🤝 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/chethiyasankalpa)
-- [Portfolio](#)
+- [Portfolio](https://chethiyasankalpa1.github.io/Portfolio-Website/)
 - [Email](mailto:your@email.com)
 - [Twitter](https://twitter.com/chethiyasankalpa)
 
