@@ -1,147 +1,124 @@
-# Hi there, I'm Chethiya Sankalpa 👋
+<h1 align="center">Hi 👋, I'm Chethiya Sankalpa</h1>
+<h3 align="center">Software Engineering Undergraduate | Full Stack Developer | Sri Lanka 🇱🇰</h3>
 
-### 💻 Software Engineering Undergraduate | Full-Stack Developer
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Mobile+Application+Developer;Always+Learning+New+Technologies" />
+</p>
 
-I'm a passionate Software Engineering undergraduate with a strong interest in building modern web and mobile applications. I enjoy transforming ideas into practical software solutions and continuously improving my skills through real-world projects.
-
-🚀 I specialize in developing responsive applications using modern technologies and enjoy learning new tools that help solve real-world problems.
+<p align="center">
+<a href="https://github.com/chethiyasankalpa">
+<img src="https://komarev.com/ghpvc/?username=chethiyasankalpa&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - 🎓 Software Engineering Undergraduate at **NIBM**
-- 💻 Passionate about **Full-Stack Web Development**
-- 📱 Interested in **Mobile Application Development**
-- 🌱 Currently improving my skills in **React.js, Node.js, Express.js, MongoDB, and REST APIs**
-- 🔍 Exploring **AI/ML** and **IoT** technologies
-- 🎯 Career Goal: Become a professional Full-Stack Software Engineer and contribute to impactful global projects
-- ☕ Coffee lover who enjoys solving coding challenges and learning something new every day
+- 💼 Passionate about Full Stack Development
+- 🌱 Currently learning **React.js, Node.js, Express.js & MongoDB**
+- 📱 Building Android Applications using Kotlin
+- 🤖 Interested in AI, IoT and Cloud Computing
+- 🚀 Love creating software that solves real-world problems
+- ⚡ Fun Fact: Coffee + Music + Coding = Productivity ☕
 
 ---
 
-# 💻 Tech Stack
-
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</p>
-
-### 📱 Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=kotlin,java,firebase" />
-</p>
-
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🛠 Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🛒 E-Commerce Web Application
-- MERN Stack application
-- User Authentication
-- Shopping Cart
-- Product Management
-- Responsive UI
-
----
-
-### 💼 Point of Sale (POS) System
-- Inventory Management
-- Billing System
-- Sales Reports
-- Customer Management
-
----
-
-### 📱 Mobile Application
-- Kotlin Development
-- Firebase Authentication
-- Firestore Database
-- Modern UI Design
-
----
-
-### 🌐 Personal Portfolio Website
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
-- GitHub Pages Deployment
-
----
-
-# 📈 GitHub Analytics
+# 🚀 Tech Stack
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chethiyasankalpa&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethiyasankalpa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,firebase,python,java,kotlin,git,github,vscode,postman,figma&perline=6"/>
+
+</p>
+
+---
+
+# 💼 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛒 E-Commerce System | Complete online shopping platform | MERN Stack |
+| 💼 POS System | Billing, Inventory & Sales Management | Java + MySQL |
+| 📱 Mobile Application | Firebase Authentication & Cloud Storage | Kotlin |
+| 🌐 Portfolio Website | Personal Portfolio | HTML CSS JavaScript |
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chethiyasankalpa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chethiyasankalpa&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chethiyasankalpa&theme=tokyonight&hide_border=true"/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethiyasankalpa&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
 # 📊 Contribution Graph
 
-[![Chethiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chethiyasankalpa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chethiyasankalpa&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chethiyasankalpa&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chethiyasankalpa&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/chethiya-sankalapa-ba3a87316/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/chethiya-sankalapa-ba3a87316/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://chethiyasankalpa1.github.io/Portfolio-Website/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+<a href="https://chethiyasankalpa1.github.io/Portfolio-Website/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="mailto:chethiyasankalpa456@email.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 👀 Profile Visitors
+<p align="center">
 
-<p align="left">
-<img src="https://profile-counter.glitch.me/chethiyasankalpa/count.svg"/>
+### 💭 Favorite Quote
+
+*"First, solve the problem. Then, write the code."*  
+— **John Johnson**
+
 </p>
 
 ---
 
-## 💡 Quote
+<p align="center">
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+⭐ Thanks for visiting my profile! ⭐
 
----
-
-⭐ **If you like my projects, don't forget to leave a star!**
+</p>
